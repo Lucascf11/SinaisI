@@ -1,0 +1,26 @@
+clear all
+close all
+clc
+
+%Definindo eixo horizontal
+n = -5:5;
+
+%Definindo funções de x(n)
+
+%Definindo as funções
+%a = (1).^n;
+%b = (-1).^n;
+%c = (0.5).^n;
+%d = (-0.5).^n;
+%e = (0.5).^(-n);
+%f = (2).^(-n);
+%g = (-2).^(-n);
+
+%Plotando o gráfico das funções
+%stem(n,a);
+%stem(n,b)
+%stem(n,c);
+%stem(n,d);
+%stem(n,e);
+%stem(n,f);
+%stem(n,g);
